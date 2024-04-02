@@ -1,4 +1,7 @@
-![image](https://github.com/hema-dharshini5/Correlation_Regression/assets/147117728/ca573971-9dd6-4658-96ed-681fa9f7c05b)# Correlation and regression for data analysis
+Name : Hema Dharshini N
+Register Number: 212223220034
+
+# Correlation and regression for data analysis
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -20,8 +23,6 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
-
-![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
  Name: Hema dharshini N
  register number: 212223220034
 ```
@@ -58,12 +59,7 @@ plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
-
-
-
 # Output
 ![Screenshot 2024-04-02 134454](https://github.com/hema-dharshini5/Correlation_Regression/assets/147117728/da2a2c2b-1429-420c-904a-886ef6bb188a)
-
-
 # Result 
 The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
